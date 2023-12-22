@@ -10,6 +10,7 @@ In addition to the default glove, you can utilize up to two custom team-color gl
 
 ### Taped Hand –> Custom Glove
 Download a glove texture PNG from `TeamName > custom-gloves-taped-hands` and put it in your PCSX2 textures folder at `SLUS-21214 > replacements > user-customs > custom-gloves-taped-hands`. The file should be named exactly: `703755b32d90480f-c9ca9c6780a74ae3-000059d3.png`. As of NEXT V14, there is no default replacement in the mod you need to disable, so that's all that's required to use the custom glove. To use the glove, in the player equipment edit screen, change the hand gear to "Taped". 
+
 ![](https://cdn.ncaamod.com/assets/images/next23v1-07.jpg)
 
 ### Taped Wrist –> Custom Glove #2
