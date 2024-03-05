@@ -22,7 +22,7 @@ There is a caveat to this one. When using Taped Wrist, in addition to the custom
 The "Rubber Pad" elbow equipment is another global item that is safe to replace with custom team-color gear. The texture actually covers the entire upper arm from the middle of the elbow all the way up to the edge of the sleeve, so you can replace it with a team-color short sleeve undershirt, an upper arm tattoo, wristband, or whatever you like. In the DLC repo you will find custom short sleeve undershirts that are ready to use.
 
 ### Rubber Pad –> Custom Upper Arm
-Download an undershirt texture PNG from `TeamName > custom-undershirt-rubber-pad` and put it in your PCSX2 textures folder at `SLUS-21214 > replacements > user-customs > custom-undershirt-rubber-pad`. The file should be named exactly: `3a30272f374c5d47-dfc7df6e50c2d5c1-00005993.png`. **IMPORTANT: You must remove or disable the mod's default Rubber Pad replacement** located at `replacements > general > gear`. You can simply prepend the filename with a dash to disable it. To use your new custom replacement, in the player equipment edit screen, change the elbow gear to "Rubber Pad". 
+Download an undershirt texture PNG from `TeamName > custom-undershirt-rubber-pad` and put it in your PCSX2 textures folder at `SLUS-21214 > replacements > user-customs > custom-undershirt-rubber-pad`. The file should be named exactly: `3a30272f374c5d47-dfc7df6e50c2d5c1-00005993.png`. **IMPORTANT: You must disable the mod's default Rubber Pad replacement** located at `replacements > general > gear`. Simply prepend the filename with a dash to disable it.  To use your new custom replacement, in the player equipment edit screen, change the elbow gear to "Rubber Pad". 
 
 ![](https://cdn.ncaamod.com/assets/images/next23v1-06.jpg)
 
